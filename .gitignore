@@ -1,0 +1,5 @@
+.DS_STORE
+node_modules
+tests/**/output/*
+tests/encoder/input/input-small.zip
+_archive
