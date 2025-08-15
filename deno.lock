@@ -4,6 +4,7 @@
     "jsr:@std/assert@1.0.0": "1.0.0",
     "jsr:@std/internal@^1.0.1": "1.0.10",
     "npm:@types/node@*": "22.15.15",
+    "npm:lodash-es@*": "4.17.21",
     "npm:lodash-es@^4.17.21": "4.17.21",
     "npm:pngjs@7": "7.0.0"
   },

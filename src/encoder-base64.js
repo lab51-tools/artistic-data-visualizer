@@ -1,4 +1,4 @@
-import merge from 'npm:lodash-es@^4.17.21/merge'
+import merge from 'npm:lodash-es@^4.17.21/merge.js'
 
 import ColorPalette from './color-palette/color-palette-fixed.js'
 
