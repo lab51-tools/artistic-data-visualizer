@@ -1,4 +1,4 @@
-import { merge } from 'lodash-es'
+import merge from 'npm:lodash-es@^4.17.21/merge'
 
 import { COLORS } from '../constants.js'
 

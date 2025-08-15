@@ -1,6 +1,6 @@
-import { merge } from 'lodash-es'
+import merge from 'npm:lodash-es@^4.17.21/merge'
 
-import { PNG } from 'pngjs'
+import { PNG } from 'npm:pngjs@^7.0.0'
 
 import { ALPHA_LEVEL, COLORS } from './constants.js'
 
